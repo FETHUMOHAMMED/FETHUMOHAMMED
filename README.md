@@ -35,7 +35,7 @@ I'm learning FastAPI, React, and Flutter — and I document that learning public
 - 🟡 **React** — components, state, API integration
 - 🟡 **Testing** — pytest, unit tests, integration tests
 
-Progress tracked monthly in my learning log.
+Progress tracked monthly in my [learning log](https://github.com/FETHUMOHAMMED/learning-log).
 
 ---
 
