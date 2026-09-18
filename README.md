@@ -50,7 +50,7 @@ Progress tracked monthly in my [learning log](https://github.com/FETHUMOHAMMED/l
 ### Get in touch
 
 - 💼 Open to small freelance work (Python scripts, bug fixes)
-- 📧 Email: fethuneja2021@gmail.com
+-  📧 Email: fethudev@gmail.com
 ---
 
 *Last updated: 2026-09-16*
