@@ -13,9 +13,11 @@ I'm learning FastAPI, React, and Flutter — and I document that learning public
 
 **🛡️ [FOREX-AI-APP](https://github.com/FETHUMOHAMMED/forex-ai-app)** — Trading research platform with fail-closed execution safety. 138 automated tests. Signal parity verified at 40,000/40,000.
 
-*Both projects involved significant learning. I'm honest about what I built myself and what I'm still learning.*
+**🚀 [fastapi-customers-api](https://github.com/FETHUMOHAMMED/fastapi-customers-api)** — Live REST API with CRUD endpoints. Built with FastAPI + SQLite. [**Try it live →**](https://fastapi-customers-api.onrender.com/docs)
 
----
+**🧹 [csv-cleaner](https://github.com/FETHUMOHAMMED/csv-cleaner)** — Small Python CLI that cleans messy CSV files.
+
+*All projects built with real constraints. I'm honest about what I know and what I'm still learning.*
 
 ### What I can deliver today
 
